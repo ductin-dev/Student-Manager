@@ -1,0 +1,13 @@
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\bin\Debug\MSSQLDemo.exe.config
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\bin\Debug\MSSQLDemo.exe
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\bin\Debug\MSSQLDemo.pdb
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.csprojAssemblyReference.cache
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.Form1.resources
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.Properties.Resources.resources
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.csproj.GenerateResource.cache
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.csproj.CoreCompileInputs.cache
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.exe
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.pdb
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.Form2.resources
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.Form3.resources
+F:\Document\Code\C#\MSSQLDemo\MSSQLDemo\obj\Debug\MSSQLDemo.Form4.resources
